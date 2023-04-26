@@ -1,0 +1,63 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+}
+.yuvarlak
+{
+border:1px solid green;
+background-color:yellow;
+width:40px;
+height: 40px;
+ border-radius: 25px;
+-moz-border-radius: 25px;
+-webkit-border-radius: 25px;
+}
+.seaction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boy{
+    width: 550px;
+    height: 25px;
+}
+#son{
+    margin: 0 10px 0 510px;
+    height: 20px;
+}
+.boşluk{
+    margin-top: 20px;
+}
+.arama{
+    margin: 0 520 0 0;
+}
+.yeni{
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+}
+.p{
+    width: auto;
+   height: 50px;
+   background-color: rgb(215, 212, 212);
+   margin: 320px 0 0 0;
+   display: flex;
+   align-items: center;
+   justify-content: left;
+}
+.liste{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(215, 212, 212);
+}
